@@ -1,0 +1,8 @@
+{
+    "name": "Test polskie",
+    "description": "Test polskie desc",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/Nikkoro/cs3-extensions/builds/plugins.json"
+    ]
+  }
